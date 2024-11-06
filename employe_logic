@@ -1,0 +1,1 @@
+select sal address name no from emp where emp = p_emp
